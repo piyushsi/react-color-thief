@@ -3,9 +3,9 @@ import ReactDOM from "react-dom"
 import './index.css'
 
 import ColorThief from './ColorThief'
-import demo1 from './assets/logo.jpeg'
-import demo2 from './assets/alt_logo.jpg'
-import demo3 from './assets/him.jpg'
+import demo2 from './assets/logo.jpeg'
+import demo3 from './assets/alt_logo.jpg'
+import demo1 from './assets/him.jpg'
 import closeSvg from './assets/close.svg'
 
 class App extends React.Component {

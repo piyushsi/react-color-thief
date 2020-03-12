@@ -117,13 +117,12 @@ body {
 .itemRoot:hover .close {
   opacity: 1;
 }
-.itemRoot:hover .mask {
+.itemRoot .mask {
   width: 500px;
   height: 100%;
   position: absolute;
   top: 0;
   left: 0;
-  background: rgba(0,0,0,0.4);
   z-index: 1;
 }
 .input {
